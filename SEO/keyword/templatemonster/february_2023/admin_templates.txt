@@ -1,0 +1,376 @@
+City Portal Templates
+1
+Low
+1
+Primary School Templates
+1
+Low
+1
+Reproduction Clinic Templates
+1
+Low
+1
+Art & Culture
+1
+Low
+1
+News Portal Templates
+1
+Low
+1
+Auction Templates
+1
+Low
+1
+Psychologist Templates
+1
+Low
+1
+Animals & Pets
+1
+Low
+1
+Tobacco Templates
+1
+Low
+1
+Teen Club Templates
+1
+Low
+1
+Drink
+1
+Low
+1
+Business Coach
+1
+Low
+7
+Life Coach Templates
+1
+Low
+1
+Electronics Review Templates
+1
+Low
+1
+Shopping Mall
+1
+Low
+1
+Civil Engineering Templates
+1
+Low
+1
+Public Relations Templates
+1
+Low
+1
+Mobile Store Templates
+1
+Low
+1
+Adoption Agency Templates
+1
+Low
+1
+Funeral Services Templates
+1
+Low
+1
+Weight Loss Templates
+1
+Low
+1
+Personal Page Templates
+1
+Low
+1
+Wholesale Store
+1
+Low
+1
+Dating Templates
+1
+Low
+1
+Industrial Templates
+1
+Low
+1
+Agriculture Templates
+1
+Low
+1
+Antique
+1
+Low
+1
+Retirement Planning Templates
+1
+Low
+1
+Drug Store Templates
+1
+Low
+1
+Pediatrician Templates
+1
+Low
+1
+Career & Special Education
+1
+Low
+1
+Military Templates
+1
+Low
+1
+Electronics Store Templates
+1
+Low
+1
+Social Foundation Templates
+1
+Low
+1
+Elementary School
+1
+Low
+1
+Boy Scout Templates
+1
+Low
+1
+Colleges & Universities
+1
+Low
+1
+Building Materials
+1
+Low
+1
+Tools & Equipment Templates
+1
+Low
+1
+Sports, Outdoors & Travel
+1
+Low
+11
+Plastic Surgery Templates
+1
+Low
+1
+Office Templates
+1
+Low
+1
+Education Templates
+2
+Low
+100
+Entertainment Templates
+2
+Low
+1
+Ambulance Templates
+2
+Low
+1
+Graphics
+2
+Low
+1
+Brewery Templates
+2
+Low
+1
+Home & Family
+2
+Low
+3
+Security Templates
+2
+Low
+3
+Merchant Services Templates
+2
+Low
+1
+Maintenance Services Templates
+2
+Low
+4
+Medical Equipment Templates
+2
+Low
+1
+Merchant Services Templates
+2
+Low
+1
+Security Templates
+2
+Low
+3
+Software Store Templates
+2
+Low
+1
+Cafe and Restaurant Templates
+3
+Low
+1
+Cafe Templates
+3
+Low
+8
+Daily Deals
+3
+Low
+4
+Electronics Templates
+3
+Low
+9
+Entertainment, Games & Nightlife
+3
+Low
+3
+Fashion & Beauty
+3
+Low
+15
+Food Delivery
+3
+Low
+28
+Food & Drink Templates
+3
+Low
+4
+Marketing Agency Templates
+3
+Low
+10
+Media Templates
+3
+Low
+1
+Property Management
+3
+Low
+18
+Software Company Templates
+3
+Low
+2
+Cryptocurrency
+4
+Low
+27
+Management Company Templates
+4
+Low
+1
+Society & People
+4
+Low
+2
+Business Audit
+5
+Low
+1
+Dentistry Templates
+5
+Low
+12
+Doctor
+5
+Low
+11
+Education & Books
+5
+Low
+28
+Food & Restaurant
+5
+Low
+68
+Real Estate Templates
+5
+Low
+36
+Accounting Website Templates
+6
+Low
+18
+Counseling Templates
+6
+Low
+5
+Intranet
+7
+Low
+2
+Communications Templates
+9
+Low
+2
+Hosting Templates
+9
+Low
+6
+Computers Templates
+12
+Low
+1
+Medical Templates
+13
+Low
+42
+Web Design Templates
+13
+Low
+1
+Finance
+14
+Low
+17
+Information Security Templates
+17
+Low
+6
+Design
+19
+Low
+3
+Internet Templates
+20
+Low
+3
+Design & Photography
+22
+Low
+1
+Web Development Templates
+23
+Low
+1
+IT Templates
+47
+High
+1
+Software Templates
+49
+High
+2
+Computers & Internet
+69
+High
+2
+Business & Services
+95
+High
+2
