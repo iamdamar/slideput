@@ -1,0 +1,824 @@
+Graphics
+1
+Low
+4
+Food Delivery
+1
+Low
+4
+Basketball Templates
+1
+Low
+4
+Nail Salon Templates
+1
+Low
+4
+Boxing Templates
+1
+Low
+4
+Bakery Templates
+1
+Low
+4
+Fashion Blog Templates
+1
+Low
+4
+E-cards Templates
+1
+Low
+4
+Skydiving Templates
+1
+Low
+4
+Frozen Food Templates
+1
+Low
+4
+Camping Templates
+1
+Low
+4
+Building Materials
+1
+Low
+4
+Video Lab Templates
+1
+Low
+4
+Car Repair Templates
+1
+Low
+4
+Electronics Review Templates
+1
+Low
+4
+Catholic Church Templates
+1
+Low
+4
+Uniform Store
+1
+Low
+4
+Skiing Templates
+1
+Low
+4
+Animal Shelter Templates
+1
+Low
+4
+Dentistry Templates
+1
+Low
+4
+Mobile Repair Service
+1
+Low
+4
+Delivery Services Templates
+1
+Low
+4
+Gardening Templates
+1
+Low
+4
+Cooking Templates
+1
+Low
+4
+Snowboarding Templates
+1
+Low
+4
+Internet Templates
+1
+Low
+4
+Yoga Templates
+1
+Low
+4
+Religious Templates
+1
+Low
+4
+Funeral Services Templates
+1
+Low
+4
+News Portal Templates
+2
+Low
+64
+Gym
+2
+Low
+2
+Poultry Farm Templates
+2
+Low
+2
+Chinese Restaurant Templates
+2
+Low
+2
+Hiking Templates
+2
+Low
+2
+Pet Shop Templates
+3
+Low
+71
+Tickets Website Templates
+3
+Low
+14
+Travel Agency Templates
+3
+Low
+86
+Media Templates
+3
+Low
+1
+Art Gallery Templates
+3
+Low
+86
+Locksmith Templates
+3
+Low
+1
+Stock Photo
+3
+Low
+1
+Animals & Pets
+3
+Low
+1
+DVD Store Templates
+4
+Low
+1
+Photo Gallery Templates
+4
+Low
+1
+Event Planner Templates
+4
+Low
+1
+Clip Art Templates
+4
+Low
+1
+Security Templates
+4
+Low
+1
+Private Airline Templates
+4
+Low
+1
+Kids' fashion
+4
+Low
+1
+Farm Templates
+5
+Low
+1
+Exterior Design Templates
+5
+Low
+1
+Tobacco Templates
+5
+Low
+17
+Farm Templates
+5
+Low
+1
+Halloween Templates
+5
+Low
+1
+Music Store Templates
+5
+Low
+1
+Flower Shop Templates
+5
+Low
+60
+Flowers Templates
+5
+Low
+1
+Garden Design Templates
+5
+Low
+9
+Books
+5
+Low
+43
+Print Shop Templates
+5
+Low
+51
+Auction Templates
+5
+Low
+26
+Travel Store Templates
+5
+Low
+1
+Lighting & Electricity Templates
+5
+Low
+1
+Plumbing Templates
+6
+Low
+1
+Education Templates
+6
+Low
+29
+Art Store Templates
+6
+Low
+14
+Car Audio Templates
+6
+Low
+1
+Car Dealer Templates
+6
+Low
+29
+Antique
+6
+Low
+7
+Politics Templates
+6
+Low
+1
+Ambulance Templates
+6
+Low
+1
+Pizza Templates
+6
+Low
+7
+Car Tuning Templates
+6
+Low
+1
+Window Decor Templates
+6
+Low
+1
+Hosting Templates
+6
+Low
+1
+Yachting Templates
+6
+Low
+1
+Wedding Dresses Templates
+6
+Low
+1
+Christmas Templates
+6
+Low
+1
+Real Estate Agency Templates
+6
+Low
+1
+Real Estate Templates
+6
+Low
+93
+Hunting Templates
+6
+Low
+1
+Web Development Templates
+6
+Low
+1
+Game Portal Templates
+6
+Low
+7
+Games Templates
+6
+Low
+64
+Weapons Store Templates
+6
+Low
+1
+Tennis Templates
+6
+Low
+1
+Swimwear Templates
+6
+Low
+7
+Nutrition Store Templates
+6
+Low
+14
+Air Conditioning Templates
+6
+Low
+1
+Brewery Templates
+6
+Low
+1
+Antique Store Templates
+6
+Low
+1
+Newborn Templates
+6
+Low
+29
+Audio Store Templates
+7
+Low
+6
+BMX Templates
+7
+Low
+1
+Hair Salon Templates
+7
+Low
+6
+Home Repairs Templates
+7
+Low
+1
+Car Rental Templates
+7
+Low
+18
+Fishing Templates
+7
+Low
+12
+Beauty Salon Templates
+7
+Low
+1
+Fitness Templates
+7
+Low
+6
+Car Rental Templates
+7
+Low
+18
+Travel Templates
+7
+Low
+31
+Seafood Restaurant Templates
+7
+Low
+1
+Fishing Templates
+7
+Low
+12
+Beauty Salon Templates
+7
+Low
+1
+Fitness Templates
+7
+Low
+6
+Flooring Templates
+7
+Low
+55
+Cleaning Templates
+7
+Low
+1
+Climbing Templates
+7
+Low
+1
+Computer Repair Templates
+7
+Low
+6
+Biker Club Templates
+7
+Low
+1
+Gifts Store Templates
+7
+Low
+6
+BMX Templates
+7
+Low
+1
+Gifts Templates
+7
+Low
+1
+Hair Salon Templates
+7
+Low
+6
+Wedding Shop Templates
+7
+Low
+1
+Shoe Store Templates
+7
+Low
+37
+Asian Restaurant Templates
+7
+Low
+1
+Window Templates
+7
+Low
+12
+Home Repairs Templates
+7
+Low
+1
+Sweet Shop Templates
+7
+Low
+1
+Wedding Templates
+7
+Low
+12
+Japanese Restaurant Templates
+7
+Low
+1
+Diving Templates
+7
+Low
+6
+Wine Templates
+8
+Low
+5
+Wheels & Tires Templates
+8
+Low
+5
+Baby Store Templates
+8
+Low
+21
+Eye Glasses Templates
+8
+Low
+32
+Fruit Templates
+8
+Low
+1
+Tea Shop Templates
+8
+Low
+1
+Gun Shop Templates
+8
+Low
+21
+Crafts Templates
+8
+Low
+11
+Handbag Templates
+8
+Low
+5
+Interior Design Templates
+8
+Low
+16
+Jeans Templates
+8
+Low
+1
+Toy Store Templates
+8
+Low
+16
+Lingerie Templates
+9
+Low
+24
+Stationery Templates
+9
+Low
+10
+Military Templates
+9
+Low
+1
+Auto Parts Templates
+9
+Low
+100
+Music Templates
+9
+Low
+5
+Wholesale Store
+9
+Low
+38
+Family Templates
+9
+Low
+1
+Photography Templates
+9
+Low
+14
+Bike Shop Templates
+9
+Low
+10
+Coffee Shop Templates
+9
+Low
+14
+Art Templates
+9
+Low
+1
+Home Decor Templates
+9
+Low
+5
+Housewares Templates
+9
+Low
+1
+Industrial Templates
+9
+Low
+19
+Kids & Children
+9
+Low
+24
+Cafe Templates
+10
+Low
+1
+Salon
+10
+Low
+1
+Spice Shop Templates
+10
+Low
+1
+T-shirt Shop Templates
+10
+Low
+4
+Transportation Templates
+10
+Low
+1
+Furniture Templates
+10
+Low
+4
+Cosmetics Store Templates
+10
+Low
+4
+Cycling Templates
+10
+Low
+1
+Education & Books
+11
+Low
+4
+Agriculture Templates
+11
+Low
+12
+Sports Store Templates
+11
+Low
+55
+Food Store Templates
+11
+Low
+4
+Drug Store Templates
+11
+Low
+12
+Extreme Sports Templates
+12
+Low
+1
+Software Templates
+12
+Low
+4
+Tools & Equipment Templates
+12
+Low
+1
+Grocery Store Templates
+12
+Low
+32
+Computer Store Templates
+13
+Low
+20
+Mobile Store Templates
+14
+Low
+12
+Motorcycles
+14
+Low
+3
+Decor
+14
+Low
+1
+Computers Templates
+15
+Low
+1
+Holiday Templates
+15
+Low
+6
+Jewelry Templates
+15
+Low
+60
+Men's Fashion
+16
+Low
+1
+Drink
+16
+Low
+3
+Women's Fashion
+17
+Low
+8
+Cafe and Restaurant Templates
+17
+Low
+1
+Art & Culture
+18
+Low
+7
+Holidays, Gifts & Flowers
+19
+Low
+1
+Car Templates
+20
+Low
+6
+Beauty Templates
+22
+Low
+8
+Entertainment Templates
+24
+Low
+1
+Society & People
+24
+Low
+1
+Electronics Store Templates
+26
+Low
+8
+Maintenance Services Templates
+27
+Low
+1
+Fashion Store Templates
+27
+Low
+6
+Computers & Internet
+27
+Low
+1
+Accessories
+29
+Low
+1
+Medical Templates
+30
+Low
+1
+Cars & Motorcycles
+30
+Low
+1
+Food & Drink Templates
+32
+Low
+1
+Entertainment, Games & Nightlife
+38
+High
+1
+Apparel Templates
+38
+High
+17
+Design
+38
+High
+1
+Interior & Furniture Templates
+39
+High
+1
+Design & Photography
+46
+High
+1
+Electronics Templates
+51
+High
+5
+Food & Restaurant
+55
+High
+14
+Sport Templates
+60
+High
+1
+Sports, Outdoors & Travel
+66
+High
+2
+Home & Family
+70
+High
+1
+Business & Services
+109
+High
+3
+Fashion Templates
+115
+High
+3
+Fashion & Beauty
+174
+High
+1
