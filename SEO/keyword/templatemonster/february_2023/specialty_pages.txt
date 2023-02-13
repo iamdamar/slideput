@@ -1,0 +1,312 @@
+Tax Advisor
+1
+Low
+30
+Interior & Furniture Templates
+1
+Low
+30
+Architecture
+1
+Low
+30
+Movie Templates
+1
+Low
+30
+Call Center Templates
+1
+Low
+30
+Tickets Website Templates
+1
+Low
+30
+Hosting Templates
+1
+Low
+30
+Sport Templates
+1
+Low
+30
+Motorcycles
+1
+Low
+30
+Job Portal Templates
+1
+Low
+30
+Communications Templates
+1
+Low
+30
+Online Betting Templates
+1
+Low
+30
+Weather Templates
+1
+Low
+30
+Games Templates
+1
+Low
+30
+Media Templates
+1
+Low
+30
+Cryptocurrency
+1
+Low
+30
+Home Staging Templates
+1
+Low
+30
+Dating Templates
+1
+Low
+30
+Fashion Templates
+1
+Low
+30
+Intranet
+1
+Low
+30
+Information Security Templates
+1
+Low
+30
+Domain Registrar Templates
+1
+Low
+30
+Adoption Agency Templates
+1
+Low
+30
+Electronics Review Templates
+1
+Low
+30
+Shopping Mall
+1
+Low
+30
+Advertising Agency Templates
+1
+Low
+30
+Security Templates
+1
+Low
+30
+Business Coach
+1
+Low
+30
+Hotels Templates
+1
+Low
+30
+Cafe and Restaurant Templates
+1
+Low
+30
+Wholesale Store
+1
+Low
+30
+Property Management
+1
+Low
+30
+Animals & Pets
+2
+Low
+15
+Brewery Templates
+2
+Low
+15
+Finance
+2
+Low
+15
+Computers Templates
+2
+Low
+15
+Consulting Templates
+2
+Low
+15
+Designer Portfolio Templates
+2
+Low
+15
+Holiday Templates
+2
+Low
+15
+Holidays, Gifts & Flowers
+2
+Low
+15
+Real Estate Agency Templates
+2
+Low
+15
+Daily Deals
+2
+Low
+15
+Software Company Templates
+2
+Low
+15
+Internet Templates
+2
+Low
+15
+Office Templates
+2
+Low
+15
+Cars & Motorcycles
+2
+Low
+15
+Christmas Templates
+2
+Low
+15
+Online Casino Templates
+2
+Low
+15
+Art Templates
+2
+Low
+15
+Food & Restaurant
+3
+Low
+100
+Food & Restaurant
+3
+Low
+100
+Home & Family
+3
+Low
+10
+Industrial Templates
+3
+Low
+10
+Management Company Templates
+3
+Low
+10
+Personal Page Templates
+3
+Low
+10
+Real Estate Templates
+3
+Low
+10
+Art & Culture
+4
+Low
+8
+Electronics Store Templates
+4
+Low
+8
+Entertainment Templates
+4
+Low
+8
+Maintenance Services Templates
+4
+Low
+8
+Photography Templates
+4
+Low
+8
+Sports, Outdoors & Travel
+4
+Low
+8
+Education & Books
+5
+Low
+6
+Graphics
+5
+Low
+60
+Marketing Agency Templates
+5
+Low
+6
+Web Development Templates
+5
+Low
+6
+Accounting Website Templates
+6
+Low
+5
+Entertainment, Games & Nightlife
+7
+Low
+4
+Fashion & Beauty
+7
+Low
+43
+Society & People
+7
+Low
+4
+Electronics Templates
+8
+Low
+4
+Software Templates
+11
+Low
+3
+IT Templates
+13
+Low
+2
+Web Design Templates
+19
+Low
+2
+Computers & Internet
+20
+Low
+2
+Design
+33
+Low
+27
+Design & Photography
+40
+High
+1
+Business & Services
+42
+High
+7
